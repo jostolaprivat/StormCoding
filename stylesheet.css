@@ -9,7 +9,13 @@ main{
     height:1fr;
     width:1fr;
 }
-#inputWrapper {
-    height: 100%;
-    position: relative;
+
+#searchbox{
+    display:flex;
+    height:80%;
+    width:8rem;
+    color:rgb(255, 200, 144);
+    border:5px;
+    border-color:orange;
+    border-radius:10px;
 }
